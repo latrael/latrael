@@ -1,8 +1,10 @@
-# 👋 Hi, I’m @latrael
+# 👋 Hi, I’m Nabil
 
-I am currently a student at the Univeristy of Colorado Boulder, studying Computer Science and Business.
+I work in product at Visa and spend a lot of my free time thinking about blockchain, payments, and fun things to build on the internet.
 
-Check my pins for projects that I've created or contributed on!
+Some projects are practical. Some are experiments. Most started because I got curious and wanted to see what would happen.
+
+You'll find a few of them pinned below.
 
 Contact me on: 
 - Twitter(@nabilinc)
